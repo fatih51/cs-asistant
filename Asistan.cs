@@ -85,13 +85,6 @@ namespace Asistan
             {
                 System.Diagnostics.Process.Start("https://www.tff.org/default.aspx?pageID=198");
             }
-            else if (richTextBoxkomut.Text.ToLower() == "ders") 
-            {
-                string myPath = @"C:\Users\Güçlü\Desktop\EBA CANLI DERS FATİH İÇİN İNDİRİLENLER\BİLGİSAYAR\PyQt5 Arayüz Tasarımı\ders notları iki özel tasarım\Yeni klasör\Yeni klasör\dist\Ders.exe";
-                System.Diagnostics.Process islem = new System.Diagnostics.Process();
-                islem.StartInfo.FileName = myPath;
-                islem.Start();
-            }
             else if (richTextBoxkomut.Text.ToLower() == "wp") 
             {
                 System.Diagnostics.Process.Start("https://web.whatsapp.com");
