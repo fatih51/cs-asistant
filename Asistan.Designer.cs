@@ -75,7 +75,7 @@
             this.label2.Size = new System.Drawing.Size(386, 120);
             this.label2.TabIndex = 5;
             this.label2.Text = "Fonksiyonlar\r\n(Arama,Takvim,Hesap Makinesi,\r\nYoutube,Vikipedi,Çeviri,Müzik,\r\nHava" +
-                ",Lig,Dersi,Whats App(wp))";
+                ",Lig,Whats App(wp))";
             // 
             // Asistan
             // 
